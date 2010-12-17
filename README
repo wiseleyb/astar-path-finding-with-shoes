@@ -1,0 +1,11 @@
+This is a simple path finding example using A* algorithm.  You can draw white dot lines.  Press "s" then click somewhere to create a start point.  Press "e" then click somewhere to create an end point.  Press "r" to run the path finding algo... it can take some time.  Press "c" to clear the path.  Press "n" to clear the grid.
+
+You'll need to install Shoes first:  http://shoesrb.com/downloads
+Then just open astar_path_finding.rb
+
+Credits:
+  AStar Algorithm found on http://branch14.org/snippets/a_star_in_ruby.html
+  Good book on A* is AI Game Programming Wisdom (Vol 1) http://www.amazon.com/Game-Programming-Wisdom-CD-ROM-Development/dp/1584500778
+	Sample Othello app (comes with Shoes download) for getting me started with Shoes.
+	
+Questions/Comments: wiseleyb@gmail.com
